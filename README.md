@@ -1,0 +1,1 @@
+# Gitlab-CI-Local-Plugin
